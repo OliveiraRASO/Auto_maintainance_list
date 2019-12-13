@@ -9,4 +9,13 @@ more updates coming:
 - new items integrated;
 - better code;
 
+# update 13/12/2019
+
+- now you can save your txt maintainance file;
+- better algorithm;
+- clean code;
+- new features;
+
+Still more to come, stay tuned...
+
 thank's
