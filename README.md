@@ -10,12 +10,11 @@ more updates coming:
 - better code;
 
 # update 13/12/2019
-
-new file to come with:
 - now you can save your txt maintainance file;
 - better algorithm;
 - clean code;
 - new features;
+- option of one executable file or multiple files folder;
 
 Still more to come, stay tuned...
 
