@@ -1,4 +1,4 @@
-# first_repository
+# first_repository // 05/12/2019
 first little program still in develpment.
 
 feel free to use and comment
