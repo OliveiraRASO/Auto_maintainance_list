@@ -16,6 +16,9 @@ more updates coming:
 - new features;
 - option of one executable file or multiple files folder;
 
+# update 11/01/2020
+- bugs fixed on saving results
+
 Still more to come, stay tuned...
 
 thank's
